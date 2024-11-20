@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PTMNHDT.KetThucMon.Travel.props" />
+</Project>
